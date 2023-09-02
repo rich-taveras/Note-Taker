@@ -2,6 +2,8 @@
 
 The Note Taker is a simple yet efficient web-based application designed to help users take and organize their notes seamlessly. This application provides users with the ability to create, edit, and delete notes, making it a valuable tool for anyone looking to manage their thoughts, ideas, and tasks in a digital format.
 
+Run from heroku: https://notetaker-rt-65a917c8139f.herokuapp.com/
+
 ## Features 
 
 User-Friendly Interface: The application boasts an intuitive and user-friendly interface that allows users to quickly adapt to the note-taking process.
